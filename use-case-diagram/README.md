@@ -63,9 +63,14 @@ Access and view all user accounts
 Remove inappropriate or inactive users
 
 Supervise bookings and user reviews
+Moderate property listings
+
+![download](https://github.com/user-attachments/assets/10f77e30-fbad-4a37-b89f-e2e7db4f499c)
+
 
 Moderate property listings
 
-Oversee user messaging activity (optional)
+
+
 
 
